@@ -2,4 +2,4 @@
 
 Screenshot demo
 
-![Pintergrid](https://github.com/erasmoh/pintergrid/blob/master/img/capture.png?raw=true)
+![Pintergrid](https://github.com/erasmoh/pintergrid/blob/master/img/capture-min.png?raw=true)
